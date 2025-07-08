@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://crnfmjju8fnqi"
-path="res://.godot/imported/Popantree_pixel_game.icon.png-4bf43c970886b51372e8cbf002b803f0.ctex"
+uid="uid://dwt80nt5cirtp"
+path="res://.godot/imported/Popantree_pixel_game.icon.png-0e7d444ee216c1689eeeac31be44069d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://untold/game/Popantree_pixel_game.icon.png"
-dest_files=["res://.godot/imported/Popantree_pixel_game.icon.png-4bf43c970886b51372e8cbf002b803f0.ctex"]
+source_file="res://Popantree_pixel_game.icon.png"
+dest_files=["res://.godot/imported/Popantree_pixel_game.icon.png-0e7d444ee216c1689eeeac31be44069d.ctex"]
 
 [params]
 
